@@ -1,1 +1,1 @@
-Zadanie 14.7
+Link do Zadania 14.7 https://wojtekboj.github.io/module_14-14.7/index.html
