@@ -11,7 +11,7 @@ var Contact = React.createClass({
                   Imię: {this.props.item.firstName}
               </p>
               <p className={'contactLabel'}>
-                  Nazwisko: {this.props.item.firstName}
+                  Nazwisko: {this.props.item.lastName}
               </p>
               <a className={'contactEmail'} href={'mailto:' + this.props.item.email}>
                   {this.props.item.email}
